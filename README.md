@@ -3,7 +3,7 @@
 
 Script realizado por KaduPrays#4208 - Qual quer duvida veja no site oficial!
 
-Leia mais sobre [Pterodactyl] (https://pterodactyl.io/) aqui. Este script não está associado ao Projeto Pterodactyl oficial
+Leia mais sobre [Pterodactyl](https://pterodactyl.io/) aqui. Este script não está associado ao Projeto Pterodactyl oficial
 
 ## Features
 
