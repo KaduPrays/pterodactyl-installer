@@ -44,7 +44,7 @@ Para usar os scripts de instalação, basta executar este comando como root.
 O script perguntará se você gostaria de instalar apenas o painel, apenas o daemon ou ambos.
 
 ```bash
-bash <(curl -s https://kaduprays.com/pterodactyl.sh)
+bash <(curl -s https://kaduprays.com/script/pterodactyl.sh)
 ```
 
 _Nota: Em alguns sistemas, é necessário já estar logado como root antes de executar o comando de uma linha (onde sudo não frente do comando não funciona)._
